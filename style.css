@@ -1,0 +1,54 @@
+.SocialBox {
+    background: red;
+    border-radius: 3px;
+    border-top: 3px solid #d2d6de;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    position: relative;
+    width: 100%;
+    height: 50px;
+    
+}
+
+.SocialBox  i{
+	font-size: 35px;
+    padding-top: 3px;
+    line-height: 38px;
+	color: white;
+    width:50px;
+}
+
+.facebook {
+    background: #3b5998;
+    height: 50px;
+}
+
+.twiter {
+    background: #1da1f2;
+    height: 50px;
+}
+
+.glit {
+    background: #3a3133;
+    height: 50px;
+}
+
+.google {
+    background: #dd4b39;
+    height: 50px;
+}
+
+.instragam{
+    background: #405de6;
+    height: 50px;
+}
+
+.pintrest{
+    background: #bd081c;
+    height: 50px;
+}
+
+.blog {
+    background: #f57d00;
+    height: 50px;
+}
